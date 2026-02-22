@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "86371099-a01a-43d1-bbcc-e70027180f66",
+  "name": "map8x8",
+  "symbol": "bg_map8x8",
+  "width": 32,
+  "height": 24,
+  "imageWidth": 256,
+  "imageHeight": 192,
+  "filename": "map8x8.png",
+  "tileColors": "",
+  "autoColor": false
+}
